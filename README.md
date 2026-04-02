@@ -2,12 +2,6 @@
 
 <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/512137d4-10bf-4134-8e17-a0d7e934a09d" />
 
-
-## 이 프로젝트를 어떻게 풀었는가
-
-동일 요구사항 아래서 과제를 구현하는 방법은 여러 가지가 있습니다.  
-이 프로젝트는 그중에서 "루트 컴포넌트 하나가 상태와 Hook을 관리하고, 자식 컴포넌트는 props만 받는 구조"를 선택한 구현입니다.
-
 ---
 
 ## 한 장 요약
