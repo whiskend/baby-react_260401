@@ -1,5 +1,8 @@
 # Baby React
 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/512137d4-10bf-4134-8e17-a0d7e934a09d" />
+
+
 ## 이 프로젝트를 어떻게 풀었는가
 
 같은 과제를 구현하는 방법은 여러 가지가 있습니다.  
